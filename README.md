@@ -10,7 +10,6 @@
 	    ├───semana2
 	    ├───semana3   
 	     ├───imagens
-	     ├───figuras
 	    ├───semana4 
 	├───fevereiro
 	    ├───semana1
@@ -18,7 +17,6 @@
 	    ├───semana3  
 	    ├───semana4
 	      ├───imagens
-	      ├───figuras
 	├───marco
 
 2. Uploading .dcm files
@@ -33,7 +31,6 @@
 	    ├───semana2
 	    ├───semana3    <- DICOM files here!
 	     ├───imagens
-	     ├───figuras
 	    ├───semana4 
 	├───fevereiro
 	    ├───semana1
@@ -41,11 +38,9 @@
 	    ├───semana3  
 	    ├───semana4
 	      ├───imagens
-	      ├───figuras
 	├───marco
   .
-The .png files go to the image folder. The graphs created for individual analysis for each month go to the figures folder.
-
+The .png files go to the imagens folder. 
 
 3. Manipulating the data
 
